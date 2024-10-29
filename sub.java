@@ -6,4 +6,3 @@ public class sub {
         System.out.println(c);
     }
 }
-git
